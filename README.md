@@ -5,6 +5,6 @@
 - 💬 Ask me about anything or my interest
 - 📫 How to reach me: https://www.linkedin.com/in/muhamad-irfan-fadhullah/
 - ✨ Expand my Repository to reach out what I do in the Data Science, Machine Learning, and Deep Learning
-- ✨ https://irfanfadhullah.github.io/
+- ✨ Let see my Portofolio --> https://irfanfadhullah.github.io/
 <!--
 **irfanfadhullah/irfanfadhullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile

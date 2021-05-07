@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m a Fresh Graduate and Open to Work
+- 🔭 I’m a Currently work as Data Scientist in Simas Jiwa Life Insurance
 - 🌱 I’m currently learning Data Science, Machine Learning and Deep Learning
 - 👯 I’m looking to collaborate on Project about my interest DS/ML/DL and for the job
 - 💬 Ask me about anything or my interest

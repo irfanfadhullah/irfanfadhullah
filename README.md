@@ -1,3 +1,10 @@
+### Fadhullah (Fadhullah Muhamad Irfan)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irfanfadhullah&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=irfanfadhullah&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=irfanfadhullah&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=irfanfadhullah&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=irfanfadhullah&theme=solarized_dark)
+
 ### Hi there 👋
 - 🔭 I’m currently working in South Korea.
 - 🔭 Graduated from Sejong University, South Korea.

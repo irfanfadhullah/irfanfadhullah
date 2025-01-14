@@ -22,8 +22,3 @@
    <a href="https://twitter.com/intent/follow?screen_name=ifadhullah"><img src="https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social" alt="@ifadhullah" /></a>
    <a href="https://www.linkedin.com/in/muhamad-irfan-fadhullah"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social" alt="@irfanfadhullah" /></a>
 </p>
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=irfanfadhullah&show_icons=true" alt="irfanfadhullah" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanfadhullah&layout=compact" alt="irfanfadhullah" />
-</p>

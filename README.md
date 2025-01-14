@@ -22,3 +22,9 @@
    <a href="https://twitter.com/intent/follow?screen_name=ifadhullah"><img src="https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social" alt="@ifadhullah" /></a>
    <a href="https://www.linkedin.com/in/muhamad-irfan-fadhullah"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social" alt="@irfanfadhullah" /></a>
 </p>
+
+### Open-source deep learning-related projects
+Yeas | Project | Report | Code | 
+--- | --- | --- | --- |
+2025 | Pix2PixHD-Plus | - | [code](https://github.com/irfanfadhullah/Pix2PixHD-Plus)
+2025 | SPADE-Plus | - | [code](https://github.com/irfanfadhullah/SPADE-Plus)

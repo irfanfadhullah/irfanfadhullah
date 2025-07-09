@@ -26,6 +26,8 @@
 ### Open-source deep learning-related projects
 Yeas | Project | Report | Code | 
 --- | --- | --- | --- |
+2025 | Unet Zoo   | - | [code](https://github.com/irfanfadhullah/unet_zoo)
+2025 | Simple VLM Toolkit| - | [code](https://github.com/irfanfadhullah/simple-vlm-toolkit)
 2025 | Multi-Stage-CUT| - | [code](https://github.com/irfanfadhullah/Multi-Stage-CUT)
 2025 | Pix2PixHD-Plus | - | [code](https://github.com/irfanfadhullah/Pix2PixHD-Plus)
 2025 | SPADE-Plus | - | [code](https://github.com/irfanfadhullah/SPADE-Plus)

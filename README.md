@@ -32,3 +32,5 @@ Yeas | Project | Report | Code |
 2025 | Pix2PixHD-Plus | - | [code](https://github.com/irfanfadhullah/Pix2PixHD-Plus)
 2025 | SPADE-Plus | - | [code](https://github.com/irfanfadhullah/SPADE-Plus)
 2025 | GSM8K-GRPO | - | [code](https://github.com/irfanfadhullah/gsm8k-grpo)
+2026 | 3d_tooth_seg | - | [code](https://github.com/irfanfadhullah/3d_tooth_segmentation)
+

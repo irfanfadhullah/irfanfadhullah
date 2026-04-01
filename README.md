@@ -7,12 +7,13 @@
 
 ### Hi there 👋
 - 🔭 I’m currently working in South Korea.
-- 🔭 Graduated from Sejong University, South Korea.
-- 🌱 I’m currently learning Data Science, Machine Learning and Deep Learning.
+- 🔭 Bachelor’s degree from Telkom University
+- 🔭 Master’s degree from Sejong University (dual major)
+- 🌱 I’m currently learning Data Science, Machine Learning, and Deep Learning.
 - 👯 I’m looking to collaborate on a Project about my interest in DS/ML/DL and for the job.
-- 💬 Ask me about anything or my interest.
+- 💬 Ask me about anything or my interests.
 - 📫 How to reach me: https://www.linkedin.com/in/muhamad-irfan-fadhullah/
-- ✨ Expand my Repository to reach out what I do in the Data Science, Machine Learning, and Deep Learning
+- ✨ Expand my Repository to reach out what I do in Data Science, Machine Learning, and Deep Learning
 - ✨ See my Portfolio --> https://irfanfadhullah.github.io/
 
 
